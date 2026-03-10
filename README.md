@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hello, I'm an Aspiring Data Analyst
 
-<!--
-**alia-11/alia-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast currently learning and developing my skills in **data analysis, data visualization, and data-driven decision making**. I enjoy working with data to discover patterns, generate insights, and solve real-world problems.
 
-Here are some ideas to get you started:
+### 📊 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Analysis and Data Cleaning
+* Data Visualization and Storytelling
+* Statistical Thinking and Problem Solving
+* Working with datasets to extract meaningful insights
+
+### 🛠 Tools & Technologies
+
+* Python
+* SQL
+* Excel / Spreadsheets
+* Data Visualization tools
+
+### 🌱 My Goal
+
+My goal is to grow as a **professional data analyst**, build impactful projects, and use data to help drive smarter decisions.
+
+### 📌 What You'll Find Here
+
+On this GitHub, I share:
+
+* Data analysis projects
+* Visualizations and reports
+
+---
+
+*"Turning data into insights and insights into action."*
